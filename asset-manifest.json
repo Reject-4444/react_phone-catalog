@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.45fb1025.chunk.css",
-    "main.js": "./static/js/main.a2d3bd6e.chunk.js",
-    "main.js.map": "./static/js/main.a2d3bd6e.chunk.js.map",
+    "main.css": "./static/css/main.579668f8.chunk.css",
+    "main.js": "./static/js/main.f2854f48.chunk.js",
+    "main.js.map": "./static/js/main.f2854f48.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.7fe66518.chunk.js": "./static/js/2.7fe66518.chunk.js",
-    "static/js/2.7fe66518.chunk.js.map": "./static/js/2.7fe66518.chunk.js.map",
+    "static/js/2.1d9971ff.chunk.js": "./static/js/2.1d9971ff.chunk.js",
+    "static/js/2.1d9971ff.chunk.js.map": "./static/js/2.1d9971ff.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.45fb1025.chunk.css.map": "./static/css/main.45fb1025.chunk.css.map",
-    "static/js/2.7fe66518.chunk.js.LICENSE.txt": "./static/js/2.7fe66518.chunk.js.LICENSE.txt",
+    "static/css/main.579668f8.chunk.css.map": "./static/css/main.579668f8.chunk.css.map",
+    "static/js/2.1d9971ff.chunk.js.LICENSE.txt": "./static/js/2.1d9971ff.chunk.js.LICENSE.txt",
     "static/media/Accessories.b914f412.png": "./static/media/Accessories.b914f412.png",
     "static/media/Navbar.scss": "./static/media/Magnificer.66a1fd86.svg",
     "static/media/ProductCard.scss": "./static/media/HeartRed.d554a185.svg",
@@ -17,12 +17,15 @@
     "static/media/Phones.cbed3047.png": "./static/media/Phones.cbed3047.png",
     "static/media/Tablets.c198526a.png": "./static/media/Tablets.c198526a.png",
     "static/media/App.scss": "./static/media/home-logo.e110292a.svg",
-    "static/media/home-page-slider-picture1.3fb173f0.png": "./static/media/home-page-slider-picture1.3fb173f0.png"
+    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/CartItem.scss": "./static/media/delete.d99189a5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.7fe66518.chunk.js",
-    "static/css/main.45fb1025.chunk.css",
-    "static/js/main.a2d3bd6e.chunk.js"
+    "static/js/2.1d9971ff.chunk.js",
+    "static/css/main.579668f8.chunk.css",
+    "static/js/main.f2854f48.chunk.js"
   ]
 }
